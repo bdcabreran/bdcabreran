@@ -19,7 +19,6 @@ I'm Bayron Cabrera, an Embedded Software Developer with over six years of experi
 
 ### Contact
 - 📫 Reach me at: bayron.nanez@gmail.com
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/bayron-cabrera-517821124/)
 
 
 ---
